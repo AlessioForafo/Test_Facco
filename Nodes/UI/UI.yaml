@@ -136,7 +136,7 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 30.0
-  - Name: SpinBox1
+  - Name: MioSpinbox
     Type: SpinBox
     Children:
     - Name: Value
